@@ -25,7 +25,7 @@ ignoreErrors = ["error-remote-getjson"]
   # Note: You can choose between
   # Note: hugo-theme-shell original: ["shell-powershell", "shell-ubuntu", "shell-retro"]
   # Note: gogh theme: https://mayccoll.github.io/Gogh/
-  scheme = "Molokai"
+  scheme = "Dracula"
 
   # Note: in terminal
   # [userName]@[pcName]:~/$ cd [workDir]
@@ -41,7 +41,7 @@ ignoreErrors = ["error-remote-getjson"]
   userName = "Mrx77"
   pcName = "laptop"
   workDir = "mydir"
-  profile = "profile.txt"
+  profile = "whoami.txt"
 
   # Note: speed at which text is displayed on the terminal
   # Note: if set to 0, typing animation will be disabled
